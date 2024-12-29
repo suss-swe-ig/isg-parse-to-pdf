@@ -1,5 +1,5 @@
-name: isg_to_pdf
+name: isg-to-pdf
 version: ~
-title: ISG to PDF
+title: iStudyGuide to PDF
 nav:
 - modules/ROOT/nav.adoc
