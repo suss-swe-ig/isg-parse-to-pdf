@@ -6,8 +6,8 @@ See [here](https://suss-swe-ig.github.io/docs-site).
 
 ## Status
 
-This is work-in-progress, not ready for launch.
+This is work-in-progress
 
-## Expected Lauch
+## Expected Launch Date
 
 2025 Semester 2
